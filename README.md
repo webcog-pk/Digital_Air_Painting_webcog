@@ -24,6 +24,14 @@
 
 - ⚡ Fun fact **I think I am Robot🤖 who Love Coding 20/7**
 
+## Support Us
+
+If you find this project useful and would like to support its continued development, consider buying us a coffee! ☕ 
+
+[![Support me on Patreon](https://img.shields.io/badge/Support%20me%20on-Patreon-orange?style=for-the-badge&logo=patreon)](https://www.patreon.com/Webcog)
+
+
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/wajahat_ali_yt" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="wajahat_ali_yt" height="30" width="40" /></a>
